@@ -1,2 +1,2 @@
 # Loop-Structure
-Printing Pattern with problem
+Printing Pattern with python
